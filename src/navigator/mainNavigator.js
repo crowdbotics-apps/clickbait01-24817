@@ -10,8 +10,10 @@ import SideMenu from "./sideMenu"
  * new navigators can be imported here
  */ import Splash12210769 from "../features/Splash12210769/navigator"
 import SignIn213210770 from "../features/SignIn213210770/navigator"
+import SignUp214210771 from "../features/SignUp214210771/navigator"
 
 const AppNavigator = {
+  SignUp214210771: { screen: SignUp214210771 },
   SignIn213210770: { screen: SignIn213210770 },
   Splash12210769: { screen: Splash12210769 },
   //@BlueprintNavigationInsertion
