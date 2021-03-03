@@ -6,5 +6,10 @@ export const installed_blueprints = [
     name: "Splash12210769",
     human_name: "Splash12210769",
     access_route: "Splash12210769"
+  },
+  {
+    name: "SignIn213210770",
+    human_name: "SignIn213210770",
+    access_route: "SignIn213210770"
   }
 ]
