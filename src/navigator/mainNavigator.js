@@ -13,8 +13,10 @@ import SignIn213210770 from "../features/SignIn213210770/navigator"
 import SignUp214210771 from "../features/SignUp214210771/navigator"
 import ForgotPassword15210772 from "../features/ForgotPassword15210772/navigator"
 import Contacts16210784 from "../features/Contacts16210784/navigator"
+import SignUp2106210874 from "../features/SignUp2106210874/navigator"
 
 const AppNavigator = {
+  SignUp2106210874: { screen: SignUp2106210874 },
   Contacts16210784: { screen: Contacts16210784 },
   ForgotPassword15210772: { screen: ForgotPassword15210772 },
   SignUp214210771: { screen: SignUp214210771 },
