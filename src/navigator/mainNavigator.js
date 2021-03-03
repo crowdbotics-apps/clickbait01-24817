@@ -8,9 +8,10 @@ import SideMenu from "./sideMenu"
 
 /**
  * new navigators can be imported here
- */
+ */ import Splash12210769 from "../features/Splash12210769/navigator"
 
 const AppNavigator = {
+  Splash12210769: { screen: Splash12210769 },
   //@BlueprintNavigationInsertion
 
   /** new navigators can be added here */
