@@ -12,8 +12,10 @@ import SideMenu from "./sideMenu"
 import SignIn213210770 from "../features/SignIn213210770/navigator"
 import SignUp214210771 from "../features/SignUp214210771/navigator"
 import ForgotPassword15210772 from "../features/ForgotPassword15210772/navigator"
+import Contacts16210784 from "../features/Contacts16210784/navigator"
 
 const AppNavigator = {
+  Contacts16210784: { screen: Contacts16210784 },
   ForgotPassword15210772: { screen: ForgotPassword15210772 },
   SignUp214210771: { screen: SignUp214210771 },
   SignIn213210770: { screen: SignIn213210770 },
