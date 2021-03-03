@@ -13,9 +13,15 @@ export const installed_blueprints = [
     human_name: "SignIn213210770",
     access_route: "SignIn213210770"
   },
+
   {
     name: "SignUp214210771",
     human_name: "SignUp214210771",
     access_route: "SignUp214210771"
+  },
+  {
+    name: "ForgotPassword15210772",
+    human_name: "ForgotPassword15210772",
+    access_route: "ForgotPassword15210772"
   }
 ]
